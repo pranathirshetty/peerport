@@ -5,3 +5,8 @@
     text-shadow:2px 4px 5px rgb(63, 53, 53);
     color:rgb(220, 181, 22)
 }
+.image
+{
+    border-radius:9px;
+    box-shadow: 2px 3px 8px black
+}
