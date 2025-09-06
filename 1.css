@@ -10,3 +10,24 @@
     border-radius:9px;
     box-shadow: 2px 3px 8px black
 }
+.confusion
+{
+    position:absolute;
+    top:200px;
+    right:300px;
+    font-size:49px;
+    font-weight:bold;
+    color:royalblue
+
+}
+
+.help
+{
+      position:absolute;
+    top:310px;
+    right:60px;
+    font-size:25px;
+    font-weight:700;
+    color:rgb(58, 165, 204);
+    font-family:cursive;
+}
